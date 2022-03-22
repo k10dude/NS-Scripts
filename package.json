@@ -1,0 +1,10 @@
+{
+  "name": "ssv2video-suitescripts",
+  "version": "1.0.0",
+  "dependencies": {
+    "@hitc/netsuite-tools": "^2.1.6",
+    "@hitc/netsuite-types": "^2019.2.6",
+    "@hitc/netsuite-upload": "^2.0.5",
+    "gulp": "^3.9.0"
+  }
+}
